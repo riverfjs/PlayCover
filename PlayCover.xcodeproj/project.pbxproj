@@ -987,8 +987,8 @@
 			isa = XCRemoteSwiftPackageReference;
 			repositoryURL = "https://github.com/riverfjs/inject";
 			requirement = {
-				kind = upToNextMajorVersion;
-				minimumVersion = 1.0.0;
+				kind = branch;
+				branch = master;
 			};
 		};
 		68E48B9D29570A0400C39879 /* XCRemoteSwiftPackageReference "DataCache" */ = {
